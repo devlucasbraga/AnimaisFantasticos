@@ -3,8 +3,6 @@ export default function initFuncionamento() {
   const diasSemana = funcionamento.dataset.semana.split(",").map(Number);
   const horarioSEmana = funcionamento.dataset.horario.split(",").map(Number);
 
-  console.log(horarioSEmana);
-
   const dataAgora = new Date();
   const diaAgora = dataAgora.getDay();
   const horarioAgora = dataAgora.getHours();
