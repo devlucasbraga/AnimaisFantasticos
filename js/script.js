@@ -19,3 +19,17 @@ initDropdownMenu();
 initMenuMobile();
 initAnimaNumeros();
 initFuncionamento();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
